@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "A backend API for a mock social network API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/templarmanatee/Social-Network-API.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "express",
+    "mongo",
+    "api"
+  ],
+  "author": "Dylan Freeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/templarmanatee/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/templarmanatee/Social-Network-API#readme"
+}
