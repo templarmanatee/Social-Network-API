@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/templarmanatee/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/templarmanatee/Social-Network-API#readme"
+  "homepage": "https://github.com/templarmanatee/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
 }
